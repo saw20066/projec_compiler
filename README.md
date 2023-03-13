@@ -1,2 +1,2 @@
-# projec_compiler (kherbache youness-oussi houssin-zakaria maarouf-mariem taalbi-labsy badar)
+# projec_compiler (kherbache youness-oussi houssinS)
 made using the language C# and the name of the project is saw
